@@ -1,0 +1,9 @@
+[
+	{
+		"Name": "xo",
+		"Description": "Lint your code using XO",
+		"Website": "https://github.com/gamemaker1/micro-plugin-xo",
+		"Tags": ["javascript", "node", "nodejs", "typescript", "linting"],
+		"Versions": []
+	}
+]
