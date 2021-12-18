@@ -1,9 +1,1 @@
-[
-	{
-		"Name": "xo",
-		"Description": "Lint your code using XO",
-		"Website": "https://github.com/gamemaker1/micro-plugin-xo",
-		"Tags": ["javascript", "node", "nodejs", "typescript", "linting"],
-		"Versions": []
-	}
-]
+[ { "Name": "xo", "Description": "Lint your code using XO", "Website": "https://github.com/gamemaker1/micro-plugin-xo", "Tags": [ "javascript", "node", "nodejs", "typescript", "linting" ], "Versions": [ { "Version": "0.1.0", "Url": "https://github.com/gamemaker1/micro-plugin-xo/releases/download/0.1.0/xo.zip", "Require": { "micro": ">=1.0.3" } } ] } ]
