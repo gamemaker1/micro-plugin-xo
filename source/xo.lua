@@ -19,13 +19,13 @@ function preinit()
 			-- It should run on Javascript and Typescript files
 			"[type|java]script",
 			-- Run the XO command
-			"npx", {"xo", "--reporter", "unix", "--fix", "%f"}, 
+			"npx", {"xo", "--reporter", "compact", "--fix", "%f"}, 
 			-- The format in which XO reports its errors
 			-- - %f is the file name
 			-- - %l is the line number
 			-- - %c is the column
 			-- - %m is the error message
-			"%f:%l:%c: %m",
+			"%f: line %l, col %c, %m",
 			-- Run on all operating systems
 			{}, false,
 			-- The file type param is a regex, interpret it as such
