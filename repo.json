@@ -31,6 +31,13 @@
         "Require": {
           "micro": ">=1.0.3"
         }
+      },
+      {
+        "Version": "0.1.3",
+        "Url": "https://github.com/gamemaker1/micro-plugin-xo/releases/download/0.1.3/xo.zip",
+        "Require": {
+          "micro": ">=1.0.3"
+        }
       }
     ]
   }

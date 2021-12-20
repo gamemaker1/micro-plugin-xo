@@ -1,4 +1,4 @@
-VERSION = "0.1.2"
+VERSION = "0.1.3"
 
 -- xo
 -- A Micro plugin that lints Typescript and Javascript files using XO
